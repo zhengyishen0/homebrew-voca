@@ -1,8 +1,8 @@
 cask "voca" do
-  version "1.0.20"
-  sha256 "1f312f47818ad75180be90bcb240e3fd6d776fdb9d1ec1b4bf2511c51bd2d205"
+  version "1.0.21"
+  sha256 "03537b110d4905e2675ceea3f05beb2e54173d60de68034cf84195be1a3222c1"
 
-  url "https://github.com/zhengyishen0/voca-app/releases/download/v#{version}/Voca-#{version}.dmg"
+  url "https://github.com/zhengyishen0/voca-app/releases/download/v#{version}/Voca.dmg"
   name "Voca"
   desc "Voice-to-text transcription for macOS menu bar"
   homepage "https://github.com/zhengyishen0/voca-app"
