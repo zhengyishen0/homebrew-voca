@@ -1,6 +1,6 @@
 cask "voca" do
-  version "1.2.4"
-  sha256 "bd857ad9a18a7014ce4ed9e015adec2d1c5fff17fab705eabcb07ec09407c241"
+  version "1.2.5"
+  sha256 "7353a938e3a1e8467a622cc4e7a4d42314d0824e0f4c10c25170d67e9564e210"
 
   url "https://github.com/zhengyishen0/voca-app/releases/download/v#{version}/Voca-#{version}.dmg"
   name "Voca"
